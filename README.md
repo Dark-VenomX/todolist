@@ -1,7 +1,3 @@
-Certainly! Here's a basic README template for your todo list project:
-
----
-
 # Todo List App
 
 A simple todo list application with features to add, edit, delete tasks, and filter tasks based on their completion status.
